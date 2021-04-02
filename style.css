@@ -1,5 +1,5 @@
 body{
-background-image: url(images/background-image.jpg);
+background: #16D6DE;
 color: #575F7D;
 font-family: 'Lora', serif;
 font-size: 17px;
@@ -118,4 +118,3 @@ margin: 20px
 }
 #dancingbtn p{
 margin: 20px
-}
