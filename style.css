@@ -66,7 +66,7 @@ text-align: center;
 border-radius: 75%
 }
 .btn-blue {
-background: #16D6DE;
+background: linear-gradient(to right, #7afacf 0%, #5dabfd 100%);
 color: white;
 padding: 15px 20px;
 border-radius: 4px;
