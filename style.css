@@ -63,7 +63,7 @@ margin: 20px 0px;
 text-align: center;
 }
 .img-circle {
-border-radius: 50%
+border-radius: 75%
 }
 .btn-blue {
 background: #e1866b;
@@ -75,25 +75,6 @@ border-radius: 4px;
 background-color: black;
 color: white;
 }
-.btndance-blue:hover {
-background-color: gold;
-color: white;
-}
-.btndance-blue {
-background: #575f7d70;
-color: white;
-padding: 15px 20px;
-border-radius: 4px;
-}
-.btngastronomy-blue {
-background: #575f7d70;
-color: white;
-padding: 15px 20px;
-border-radius: 4px;
-}
-.btngastronomy-blue:hover {
-background-color: gold;
-color: white;
 }
 .list-inline {
 list-style: none;
@@ -114,10 +95,4 @@ color: black;
 /* Design adjustments using id (1% design remaining) */
 #introduction p {
 margin-bottom: 40px;
-}
-#gastronomybtn p{
-margin: 20px
-}
-#dancingbtn p{
-margin: 20px
 }
